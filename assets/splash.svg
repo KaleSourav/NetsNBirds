@@ -1,0 +1,6 @@
+<svg width="1242" height="2436" viewBox="0 0 1242 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1242" height="2436" fill="#3498DB"/>
+  <text x="621" y="1218" font-family="Arial" font-size="120" text-anchor="middle" fill="white">Nets N Birds</text>
+  <path d="M621 800C709 800 789 840 849 900C909 960 949 1040 949 1120C949 1200 909 1280 849 1340C789 1400 709 1440 629 1440C549 1440 469 1400 409 1340C349 1280 309 1200 309 1120C309 1040 349 960 409 900C469 840 549 800 621 800Z" fill="white"/>
+  <path d="M509 1000L733 1224M509 1224L733 1000" stroke="#3498DB" stroke-width="40" stroke-linecap="round"/>
+</svg>
